@@ -1,4 +1,5 @@
 const request = require('superagent')
+const examples = require('./examples.json')
 const sketches = []
 
 
